@@ -1,7 +1,3 @@
-### Hi there 👋 I'm Nelson Lozada Morales,
-
-A fourth-year Computer Science undergraduate at the University of Puerto Rico Bayamón.
-
 ## 🎓 Education
 **University of Puerto Rico Bayamón**  
 **Bachelor’s Degree in Computer Science**  
