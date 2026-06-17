@@ -1,61 +1,118 @@
+<div align="center">
+
+# Nelson Lozada Morales
+### Junior Software Engineer · Full-Stack Developer · Industrial Process Digitalization
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nelson-lozada-morales/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:nelsonjr0703@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iTs-NOSLEN)
+
+</div>
+
+---
+
+## 👋 About Me
+
+Computer Science graduate from the **University of Puerto Rico, Bayamón** (GPA 3.75), currently working as a **Junior Software Engineer at Becton Dickinson (BD)** in Cayey, Puerto Rico.
+
+I specialize in **full-stack development** and the **digitalization of industrial manufacturing processes**, building real-time, data-driven applications that replace paper-based workflows in biomedical production environments. I'm passionate about turning complex operational problems into clean, scalable digital solutions.
+
+
+## 🚀 Projects
+
+### 🐾 Veterinary Virtual Queue System
+**Full-Stack Developer | Team Project via GitHub · May 2025 – August 2025**
+
+> A real-time web application to manage client queues in veterinary clinics
+
+- Built with **Node.js, Express, Socket.IO, MySQL, and JavaScript**
+- Developed public-facing and admin dashboards with live updates, secure login, and session-based access
+- Used GitHub for collaboration, version control, and issue tracking across a multi-student team
+- Visited veterinary clinics across Puerto Rico to validate the concept — approved by most veterinarians consulted
+
+### 📝 Exam Grader App *(Bachelor's Thesis)*
+**Cross-platform Educational App · August 2025 – December 2025**
+
+> A cross-platform mobile + desktop app that automatically grades exams using OCR
+
+- Built with **C#, .NET MAUI, Azure Cognitive Services, SQL Server**
+- Designed and deployed a SQL Server database with **14+ relational tables** hosted in Docker
+- Built teacher dashboards with statistics: average, most missed question, standard deviation
+- Delivered with clean **MVVM architecture**, dependency injection, and RESTful API backend
+
+---
+
 ## 🎓 Education
-**University of Puerto Rico Bayamón**  
-**Bachelor’s Degree in Computer Science**  
-**[August 2021 – May 2026]**  
-- **GPA:** 3.66
 
-### 📖 Relevant Coursework:
-- COTI 3101: Algorithms and Program Development I & II
-- COTI 4210: Web Development
-- SICI 4037: Data Communication
-- SICI 4036: Data Structure
-- SICI 4030: Database
-- COTI 4039: Languages Paradigms
+### University of Puerto Rico, Bayamón
+**Bachelor's Degree in Computer Science · August 2021 – December 2025**
+- **GPA:** 3.75 | Member of the **Honor Roll**
+- Vocal of the **AECC** (Computer Science Students Association)
+- Member of **RETA** (Robotics, Electronics, and Technology Association)
+- 🏅 **4th Place** at the 2023 Intercollegiate Programming Competition
 
-### 🏆 Awards and Honors:
-- Member of the Honor Roll
+**Relevant Coursework:** Algorithms I & II · Web Development · Data Communications · Data Structures · Databases · Language Paradigms
 
-### 🌐 Extracurricular Activities:
-- Vocal of the AECC (Computer Science Students Association)
-- Member of RETA (Robotics, Electronics, and Technology Association)
-- Fourth Place at the 2023 Intercollegiate Programming Competition
+---
 
-## 🔧 My Skills Include
+## 🛠️ Skills
 
-<h4> 🔄 Languages </h4>
-<span> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
-  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/F%23-5C2D91?style=for-the-badge&logo=fsharp&logoColor=white">
-  <img src="https://img.shields.io/badge/Prolog-00599C?style=for-the-badge&logo=prolog&logoColor=white">
-</span>
+<h4>🔄 Languages</h4>
 
-<h4> 📊 Databases </h4>
-<span>
-  <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-</span>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![F#](https://img.shields.io/badge/F%23-5C2D91?style=for-the-badge&logo=fsharp&logoColor=white)
+![Prolog](https://img.shields.io/badge/Prolog-00599C?style=for-the-badge&logo=prolog&logoColor=white)
 
-<h4> 🛠️ IDE </h4>
-<span>
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-<img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
-<img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white">
-<img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
-</span>
+<h4>🌐 Frontend</h4>
 
-<hr>
-<h2>
-  📞 Contact Me </h2>
-   <br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<center>
-<a target="_blank" href="https://www.linkedin.com/in/nelson-lozada-morales/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:nelsonjr0703@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-</center>
+<h4>⚙️ Backend & Frameworks</h4>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+<h4>🗄️ Databases</h4>
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+<h4>🔧 Tools & Platforms</h4>
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Tulip](https://img.shields.io/badge/Tulip-FF6B35?style=for-the-badge&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16?style=for-the-badge&logo=Eclipse&logoColor=white)
+
+---
+
+## 📜 Certifications
+
+| Certification | Issuer |
+|---|---|
+| 🏅 Tulip Advanced App Builder | Tulip |
+| 🏅 Microsoft Excel Specialist | Microsoft |
+| 🏅 IBM Cybersecurity Analyst | IBM |
+| 🏅 Google IT Support | Google |
+
+---
+
+## 🌐 Languages
+
+- 🇵🇷 **Spanish** — Native
+- 🇺🇸 **English** — Bilingual
