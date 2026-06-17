@@ -68,7 +68,6 @@ I specialize in **full-stack development** and the **digitalization of industria
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![F#](https://img.shields.io/badge/F%23-5C2D91?style=for-the-badge&logo=fsharp&logoColor=white)
-![Prolog](https://img.shields.io/badge/Prolog-00599C?style=for-the-badge&logo=prolog&logoColor=white)
 
 <h4>🌐 Frontend</h4>
 
@@ -97,7 +96,6 @@ I specialize in **full-stack development** and the **digitalization of industria
 ![Tulip](https://img.shields.io/badge/Tulip-FF6B35?style=for-the-badge&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16?style=for-the-badge&logo=Eclipse&logoColor=white)
 
 ---
 
