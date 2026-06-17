@@ -13,34 +13,9 @@
 
 ## 👋 About Me
 
-Computer Science graduate from the **University of Puerto Rico, Bayamón** (GPA 3.75), currently working as a **Junior Software Engineer at Becton Dickinson (BD)** in Cayey, Puerto Rico.
+Computer Science graduate from the **University of Puerto Rico, Bayamón** (GPA 3.75), currently working as a **Junior Software Engineer.
 
 I specialize in **full-stack development** and the **digitalization of industrial manufacturing processes**, building real-time, data-driven applications that replace paper-based workflows in biomedical production environments. I'm passionate about turning complex operational problems into clean, scalable digital solutions.
-
-
-## 🚀 Projects
-
-### 🐾 Veterinary Virtual Queue System
-**Full-Stack Developer | Team Project via GitHub · May 2025 – August 2025**
-
-> A real-time web application to manage client queues in veterinary clinics
-
-- Built with **Node.js, Express, Socket.IO, MySQL, and JavaScript**
-- Developed public-facing and admin dashboards with live updates, secure login, and session-based access
-- Used GitHub for collaboration, version control, and issue tracking across a multi-student team
-- Visited veterinary clinics across Puerto Rico to validate the concept — approved by most veterinarians consulted
-
-### 📝 Exam Grader App *(Bachelor's Thesis)*
-**Cross-platform Educational App · August 2025 – December 2025**
-
-> A cross-platform mobile + desktop app that automatically grades exams using OCR
-
-- Built with **C#, .NET MAUI, Azure Cognitive Services, SQL Server**
-- Designed and deployed a SQL Server database with **14+ relational tables** hosted in Docker
-- Built teacher dashboards with statistics: average, most missed question, standard deviation
-- Delivered with clean **MVVM architecture**, dependency injection, and RESTful API backend
-
----
 
 ## 🎓 Education
 
