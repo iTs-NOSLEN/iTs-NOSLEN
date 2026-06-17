@@ -13,7 +13,7 @@
 
 ## 👋 About Me
 
-Computer Science graduate from the **University of Puerto Rico, Bayamón** (GPA 3.75), currently working as a **Junior Software Engineer.
+Computer Science graduate from the **University of Puerto Rico, Bayamón**, currently working as a **Junior Software Engineer.
 
 I specialize in **full-stack development** and the **digitalization of industrial manufacturing processes**, building real-time, data-driven applications that replace paper-based workflows in biomedical production environments. I'm passionate about turning complex operational problems into clean, scalable digital solutions.
 
